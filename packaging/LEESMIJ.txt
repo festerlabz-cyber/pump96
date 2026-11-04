@@ -1,0 +1,13 @@
+BoomTown Beats Pump 96 (testversie voor eigen gebruik)
+
+Installeren:
+1. Sluit Logic Pro.
+2. Open Terminal (Programma's > Hulpprogramma's > Terminal).
+3. Plak deze regel en druk op Enter:
+
+   bash "/Volumes/Pump 96/install.sh"
+
+4. Start Logic Pro. De plugin staat bij Audio FX > Audio Units > BoomTown Beats > Pump 96.
+
+Werkt de plugin niet in Logic? Open Logic Pro > Instellingen > Plug-in Manager,
+zoek "Pump 96" en klik op "Reset & Rescan Selection".
