@@ -1,0 +1,19 @@
+﻿BoomTown Beats Pump 96 voor Windows (VST3, 64-bit)
+=====================================================
+
+Installeren
+1. Pak deze zip uit (rechtsklik > Alles uitpakken).
+2. Kopieer de map "Pump 96.vst3" naar:
+      C:\Program Files\Common Files\VST3
+   (Windows vraagt om beheerdersrechten: klik op Doorgaan.)
+3. Start je DAW (bijv. FL Studio, Ableton Live, Reaper, Cubase, Bitwig, Studio One) en laat hem
+   opnieuw naar plugins zoeken (plugin-scan / "Rescan").
+4. zet hem als effect (insert / FX) op een spoor of bus: BoomTown Beats > Pump 96.
+
+Werkt niet?
+- Staat de plugin niet in de lijst: controleer dat de hele map "Pump 96.vst3" in de VST3-map staat
+  (niet alleen het bestand erin) en laat de DAW opnieuw scannen.
+- De plugin is 64-bit; 32-bit DAW's worden niet ondersteund.
+- Windows 10 of 11 (64-bit) is vereist.
+
+boomtownbeats.com

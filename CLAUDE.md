@@ -20,6 +20,8 @@ Owner speaks Dutch; write user-facing docs in Dutch, GUI text in English.
   Depth/Rate column, `CurveEditor` (drag, click = add, double/right-click = remove, Shift = no snap, playhead),
   Feel / Band / Out groups, bottom bar Shape / host tempo / Presets.
 - `.github/workflows/build-macos.yml` — universal AU + VST3, auval, DMG artifact with install script.
+- `.github/workflows/build-windows.yml` — Windows x64 VST3 (MSVC, static runtime), pluginval strictness 5, zip artifact
+  with `packaging/LEESMIJ-Windows.txt`.
 
 ## Decisions
 - Manufacturer code `Btbt`, plug-in code `Pm96`, bundle id `com.boomtownbeats.pump96`. Never change these.

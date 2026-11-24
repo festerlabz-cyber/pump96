@@ -16,6 +16,16 @@ Gebouwd met [JUCE](https://juce.com) 9.0.4. De klank is één op één overgezet
 
 5. Start Logic Pro. De plugin staat bij **Audio FX → Audio Units → BoomTown Beats → Pump 96**.
 
+## Downloaden en installeren (Windows)
+
+1. Open op GitHub het tabblad **Actions** en de bovenste groene run *Build Windows (VST3)*.
+2. Download bij **Artifacts** het bestand `Pump96-Windows-VST3-…` en pak de zip uit.
+3. Kopieer de hele map `Pump 96.vst3` naar `C:\Program Files\Common Files\VST3`.
+4. Laat je DAW opnieuw naar plugins zoeken en zet Pump 96 als insert/FX op een spoor of bus (fabrikant **BoomTown Beats**).
+
+Windows 10/11, 64-bit; geen extra software nodig. Elke Windows-build wordt automatisch getest met
+[pluginval](https://github.com/Tracktion/pluginval).
+
 ## Wat de plugin doet
 
 - Een volumecurve die meeloopt met de songpositie van Logic, dus altijd precies op de tel. Staat Logic stil, dan loopt
